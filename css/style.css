@@ -1,4 +1,11 @@
-
+.goback{
+    height:auto;
+    width: 100px;
+}
+.title{
+   height:auto;
+   width: 200px;
+}
 #head{
     font-size: 45px;
     font-weight: bolder;
