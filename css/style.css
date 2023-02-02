@@ -1,0 +1,46 @@
+
+#head{
+    font-size: 45px;
+    font-weight: bolder;
+    text-align: center;
+    color: plum;
+}
+.test{
+    color: blueviolet;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.jazz{
+    font-size: xx-large;
+    color: goldenrod;
+    background-color: blueviolet;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.jd{
+    color: firebrick;
+    font-weight: bolder;
+    
+}
+.beck{
+    font-weight: bolder;
+    background-color: firebrick;
+}
+.wlr{
+    height: auto;
+    width: 200px;
+}
+
+.front{
+    text-align: center;
+    
+}
+.pcenter{
+   display:block;
+   margin-left: auto;
+   margin-right: auto;
+   }
+   
+
